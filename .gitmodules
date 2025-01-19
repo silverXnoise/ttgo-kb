@@ -1,0 +1,3 @@
+[submodule "lib/t-display-s3"]
+	path = lib/t-display-s3
+	url = https://github.com/silverXnoise/T-Display-S3
