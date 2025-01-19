@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "ttgo-kb",
+			"path": "../src/ttgo-kb"
+		}
+	],
+	"settings": {}
+}
